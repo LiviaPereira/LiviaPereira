@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![LiviaPereira GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiviaPereira&show_icons=true)
 
-- 🔭 I’m currently working as a Back-Edn Developer at FIAP 
+- 🔭 I’m currently working as a Back-End Developer at FIAP 
 - 🌱 I’m currently working with and improving my knowledge on ASP.NET, ASP.NET MVC, ASP.NET Core, C# and SQL Server
 
 ---
